@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+*.pyo
+*.db
+
+__pycache__/
+venv/
+
+app/config.py
